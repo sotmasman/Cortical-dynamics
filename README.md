@@ -1,5 +1,7 @@
-# Rich-club-cortical-dynamics
-Data set used to examine rich-club dynamics in cortical microcircuits
+# Cortical-dynamics
+Data set used to examine rich-club dynamics in cortical microcircuits.
+
+Each file represents simultaneously recorded neurons from one animal.
 
 unitactivity.spiketimes{i} gives the spike times in seconds of the ith unit.  
 
