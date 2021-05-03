@@ -1,4 +1,4 @@
-# Cortical-dynamics
+# Rich-club-cortical-dynamics
 Data set used to examine rich-club dynamics in cortical microcircuits.
 
 Each file represents simultaneously recorded neurons from one animal.
